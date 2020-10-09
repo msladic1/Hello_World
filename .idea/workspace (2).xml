@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1ed11438-739c-4ec6-8879-f8e2131cd903" name="Default Changelist" comment="Dodano prezime" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1idM5n5Ml4U4nXbN2WtI24x8vUf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ba.unsa.etf.rpr.Main" />
+      <module name="Hello" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ed11438-739c-4ec6-8879-f8e2131cd903" name="Default Changelist" comment="" />
+      <created>1602232838463</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602232838463</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1602237972709</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602237972709</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Dodano prezime">
+      <created>1602238128806</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602238128806</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="Dodano prezime" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dodano prezime" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="952" y="253" key="#Notifications" timestamp="1602237396045">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="952" y="253" key="#Notifications/0.0.1600.860@0.0.1600.860" timestamp="1602237396045" />
+    <state x="1078" y="326" key="Github.ShareDialog" timestamp="1602237837570">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="1078" y="326" key="Github.ShareDialog/0.0.1600.860@0.0.1600.860" timestamp="1602237837570" />
+    <state x="1019" y="127" key="Github.UntrackedFilesDialog" timestamp="1602237885832">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="1019" y="127" key="Github.UntrackedFilesDialog/0.0.1600.860@0.0.1600.860" timestamp="1602237885832" />
+    <state width="740" height="196" key="GridCell.Tab.0.bottom" timestamp="1602238352226">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="740" height="196" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1602238352226" />
+    <state width="740" height="196" key="GridCell.Tab.0.center" timestamp="1602238352226">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="740" height="196" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1602238352226" />
+    <state width="740" height="196" key="GridCell.Tab.0.left" timestamp="1602238352226">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="740" height="196" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1602238352226" />
+    <state width="740" height="196" key="GridCell.Tab.0.right" timestamp="1602238352226">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="740" height="196" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1602238352226" />
+    <state x="784" y="194" key="Vcs.Push.Dialog.v2" timestamp="1602238161445">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="784" y="194" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1602238161445" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Hello$Main.ic" NAME="Main Coverage Results" MODIFIED="1602232901827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
